@@ -1,0 +1,807 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds x="-15352.200371975554" y="-9292.048523358517" width="30704.400743951108" height="18584.097046717034"/>
+      <aspectratio>4:3</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="1_24309637" type="button" x="1.4754358786320024e-13" y="-2.3308969024372835e-13" r="0" s="27.64667814150109" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1111.9900904575002</w>
+        <h>673.5649802477071</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="16_30863873" type="button" x="-5254.389468137183" y="-3759.2098256897616" r="2.9669353371861177e-16" s="3.3822990359987473" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="17_30863873" type="button" x="-793.0210288318342" y="-6108.5278631706105" r="2.9669353371861177e-16" s="3.3822990359987473" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="18_30863873" type="button" x="4023.464388726416" y="-5949.851934820029" r="1.6476253233488535e-16" s="2.530369677519892" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="19_30863873" type="button" x="6293.1" y="-2874.9" r="2.966935337186116e-16" s="2.2955208686568604" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="20_30863873" type="button" x="-5677.05" y="232.25" r="2.966935337186115e-16" s="2.267248231464907" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="21_30863873" type="shape" x="-3131.424557206108" y="-2141.1943213569775" r="34.448491794500846" s="9.696835091131561" class="line3">
+      <geom type="line">
+        <sp>136.6134666822148 0</sp>
+        <ep>-136.61346668221478 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>midnight-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="22_30863873" type="shape" x="2258.6752581653373" y="-3552.7019904361305" r="125.72159323660601" s="3.53383203029576" class="line3">
+      <geom type="line">
+        <sp>564.0432427554537 0</sp>
+        <ep>-564.0432427554538 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>midnight-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="23_30863873" type="shape" x="3671.5843652817903" y="-1814.5123738290974" r="157.94191627348775" s="9.696835091131563" class="line3">
+      <geom type="line">
+        <sp>195.60266978587987 0</sp>
+        <ep>-195.60266978587987 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>midnight-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="24_30863873" type="shape" x="-513.8077892014982" y="-3535.645505930959" r="84.10451115561128" s="9.696835091131558" class="line3">
+      <geom type="line">
+        <sp>129.08957579697895 0</sp>
+        <ep>-129.08957579697898 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>midnight-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="25_30863873" type="button" x="-149.15298695387207" y="103.33395931605489" r="0" s="6.044486001994455" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>midnight-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="2_30863873" type="text" x="-5662.397950939707" y="-276.25400448228316" r="2.9669353371861157e-16" s="3.1035595216806833" class="strong">
+      <height>81.5625</height>
+      <width>397.37019921777994</width>
+      <p align="center">
+        <text weight="normal" style="italic"><![CDATA[A human is just a human. When he communicates, he becomes humanity.]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="20_30863873"/>
+      </layout>
+    </object>
+    <object id="5_30863873" type="text" x="-5224.05" y="-4631.95" r="2.9669353371861177e-16" s="10.917097157848318" class="strong">
+      <height>27.1875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text color="11793407"><![CDATA[Sendmail]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="16_30863873"/>
+      </layout>
+    </object>
+    <object id="9_30863873" type="text" x="4031.35" y="-5377.3" r="1.914281781448738e-16" s="4.880766835593177" class="strong">
+      <height>108.75</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[What the heck!]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Can't it be easier???]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[:/]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="18_30863873"/>
+      </layout>
+    </object>
+    <object id="11_30863873" type="text" x="6232.079909556869" y="-3116.7528636414468" r="2.966935337186113e-16" s="6.123377703899294" class="strong">
+      <height>27.1875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text color="16749190"><![CDATA[Alpine]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="19_30863873"/>
+      </layout>
+    </object>
+    <object id="12_30863873" type="text" x="6272.75688839087" y="-2748.214663912286" r="2.966935337186116e-16" s="2.9199653129003766" class="body">
+      <height>81.5625</height>
+      <width>578.4003464063804</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Mail User Agent]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Uses the system MTA for operation]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Developed by University of Washington]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="19_30863873"/>
+      </layout>
+    </object>
+    <object id="17" type="persistentgroup" x="6272.75688839087" y="-2914.5636788996976" r="0" s="3.4933652190892013">
+      <m o="11_30863873"/>
+      <m o="12_30863873"/>
+    </object>
+    <object id="1" type="image" x="-150" y="10.4" r="0" s="1.7032321864222921">
+      <source w="1024" h="1024">
+        HhXAaCJqBykcrBP.png
+        <url>HhXAaCJqBykcrBP.png</url>
+      </source>
+      <sourceUrl>batux-tux-g2-hd.png</sourceUrl>
+    </object>
+    <object id="0" type="text" x="-128.32346013270515" y="-1280.8886649254043" r="0" s="26.54365538478228" class="head">
+      <height>28.8</height>
+      <width>107.62479911722451</width>
+      <p>
+        <text><![CDATA[Linux Utility Lab]]></text>
+      </p>
+    </object>
+    <object id="2" type="text" x="-149.25" y="1330.4" r="0" s="8" class="body">
+      <height>81.5625</height>
+      <width>382.59453125</width>
+      <p align="center">
+        <text><![CDATA[Md Safiyat Reza]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Md Zulkarnain]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Mohd Abdullah Hammad]]></text>
+      </p>
+    </object>
+    <object id="3" type="shape" x="-3635.5671565587036" y="276.84838319800167" r="9.182312968467974e-16" s="9.696835091131561" class="line3">
+      <geom type="line">
+        <sp>116.6803929847457 0</sp>
+        <ep>-116.68039298474571 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>midnight-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="4" type="image" x="-6090.497950939707" y="232.29599551771682" r="2.966935337186115e-16" s="1.9898901117281897">
+      <source w="233" h="216">
+        XozuJfJ1D7JEtF3.jpg
+        <url>XozuJfJ1D7JEtF3.jpg</url>
+      </source>
+      <sourceUrl>computer+phone.jpg</sourceUrl>
+    </object>
+    <object id="6" type="image" x="-5252.197950939706" y="232.29599551771682" r="2.966935337186115e-16" s="1.9898901117281897">
+      <source w="233" h="216">
+        ZG3Q2iTu6UHETeL.jpg
+        <url>ZG3Q2iTu6UHETeL.jpg</url>
+      </source>
+      <sourceUrl>computer+phone flipped.jpg</sourceUrl>
+    </object>
+    <object id="7" type="shape" x="-5635.165347741021" y="402.979395739232" r="2.966935337186116e-16" s="1.287839661186502" class="line3">
+      <geom type="arrow">
+        <sp>-209.93032242160746 0</sp>
+        <ep>209.93032242160746 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="8" type="shape" x="-5736.489806273732" y="403.73568059933166" r="-2.777014366042089e-14" s="1.287839661186502" class="line3">
+      <geom type="arrow">
+        <sp>184.61379125631663 0</sp>
+        <ep>-184.61379125631663 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="9" type="text" x="-5632.147950939707" y="664.3459955177168" r="2.966935337186115e-16" s="2.8214177469824397" class="body">
+      <height>81.5625</height>
+      <width>494.943881785063</width>
+      <p>
+        <text color="16744448" style="italic"><![CDATA[    Let's go back to the days, when men were men, and wrote their own device drivers!]]></text>
+      </p>
+    </object>
+    <object id="32" type="persistentgroup" x="-5632.147950939707" y="398.39740073145833" r="2.966935337186115e-16" s="7.887510087953424">
+      <m o="4"/>
+      <m o="6"/>
+      <m o="7"/>
+      <m o="8"/>
+      <m o="9"/>
+    </object>
+    <object id="10" type="text" x="-5165.3" y="-3291.7" r="2.9669353371861177e-16" s="3.344369777040334" class="body">
+      <height>217.5</height>
+      <width>705.6990917238759</width>
+      <p listType="bullet" indent="1">
+        <text color="16248250" weight="bold"><![CDATA[Mail Transfer Agent]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="16248250"><![CDATA[A highly specialized program that delivers mail and transports it between machines]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16248250" weight="bold"><![CDATA[Highly configurable. Even more complex!]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16248250" weight="bold"><![CDATA[Parts:]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="16248250"><![CDATA[Configuration file]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="16248250"><![CDATA[Queue]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="16248250"><![CDATA[Aliases and Mailing Lists]]></text>
+      </p>
+    </object>
+    <object id="33" type="image" x="-809.9" y="-6450.9" r="2.9669353371861177e-16" s="1.8125690421726035">
+      <source w="600" h="909">
+        u3lXlBhKelNzgZR.jpeg
+        <url>u3lXlBhKelNzgZR.jpeg</url>
+      </source>
+      <sourceUrl>Linus_Torvalds_talking.jpeg</sourceUrl>
+    </object>
+    <object id="11" type="text" x="-810.35" y="-5444.4" r="2.9669353371861177e-16" s="6.611570247933883" class="body">
+      <height>54.375</height>
+      <width>355.1930057968326</width>
+      <p align="center">
+        <text color="16749190" weight="bold" style="italic"><![CDATA[Talk is cheap! Show me the code!]]></text>
+      </p>
+    </object>
+    <object id="12" type="button" x="7672.188619264799" y="1191.134013135331" r="0" s="4.576297979733696" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="13" type="shape" x="4070.7141302243685" y="564.697536047388" r="5.775735975960753" s="11.661807580174935" class="line3">
+      <geom type="line">
+        <sp>-157.8880988318385 0</sp>
+        <ep>157.88809883183848 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="14" type="text" x="7677.1886192648" y="1946.9840131353312" r="0" s="12.677338948832826" class="strong">
+      <height>27.1875</height>
+      <width>-201.6328125</width>
+      <p>
+        <text color="11592415"><![CDATA[Any questions?]]></text>
+      </p>
+    </object>
+    <object id="18" type="button" x="6189.5" y="4939.55" r="0" s="3.7835204195415164" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="19" type="shape" x="3300.4708430034757" y="2897.0670887735187" r="34.586292772742105" s="9.696835091131563" class="line3">
+      <geom type="line">
+        <sp>-205.83479945823458 0</sp>
+        <ep>205.83479945823456 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="20" type="text" x="6189.485083160292" y="5030.544386039823" r="0" s="12.677338948832826" class="body">
+      <height>54.375</height>
+      <width>290.80510540192506</width>
+      <p align="center">
+        <text color="12960707" weight="bold"><![CDATA[That's all?]]></text>
+      </p>
+      <p align="center">
+        <text color="12960707" weight="bold"><![CDATA[Thank you!]]></text>
+      </p>
+    </object>
+    <object id="22" type="shape" x="-40.3" y="3859.05" r="89.99999999999993" s="11.661807580174937" class="line3">
+      <geom type="line">
+        <sp>-110.639058334983 0</sp>
+        <ep>110.639058334983 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="28" type="button" x="-41.899999999999956" y="6850.650000000001" r="0" s="4.2512172341522465" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800.394671928959</h>
+      </size>
+    </object>
+    <object id="29" type="button" x="-75.05000000000001" y="7640.9" r="0" s="1.756976662700741" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.6916735366859</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="30" type="text" x="-137.39999999999998" y="6326.6" r="0" s="8" class="strong">
+      <height>135.9375</height>
+      <width>397.60106670350655</width>
+      <p align="center">
+        <text><![CDATA[   Only wimps use tape backup. Real men just upload their important stuff on ftp and let the world mirror it.]]></text>
+      </p>
+    </object>
+    <object id="34" type="image" x="7677.3" y="746.55" r="0" s="6.532943729096841">
+      <source w="318" h="300">
+        vdqywXPHpIsJ6Uj.jpg
+        <url>vdqywXPHpIsJ6Uj.jpg</url>
+      </source>
+      <sourceUrl>Any-Questions-318x300.jpg</sourceUrl>
+    </object>
+    <object id="35" type="image" x="4017.4" y="-6210.8" r="1.6476253233488535e-16" s="1.3783499773999557">
+      <source w="674" h="800">
+        d5iybiqR1ylWTuK.jpg
+        <url>d5iybiqR1ylWTuK.jpg</url>
+      </source>
+      <sourceUrl>What%20the%20heck%20is%20Customer%20Experience_0.jpg</sourceUrl>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="3.5914089677264123" fadescale="1.9953156954725548">
+      <object id="background881505999" type="image" x="-39.71016854638092" y="-1464.8471727531887" r="0" s="18.507741909963464">
+        <source w="1300" h="1000">
+          rzx1xqh8kl.png
+          <url>rzx1xqh8kl.png</url>
+        </source>
+        <sourceUrl>midnightBGO_compressed3.png</sourceUrl>
+      </object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="1_24309637"/>
+    </s>
+    <s>
+      <eagle o="25_30863873"/>
+    </s>
+    <s>
+      <eagle o="20_30863873"/>
+    </s>
+    <s>
+      <buildin o="32"/>
+    </s>
+    <s>
+      <eagle o="16_30863873"/>
+    </s>
+    <s>
+      <buildin o="10"/>
+    </s>
+    <s>
+      <eagle o="17_30863873"/>
+    </s>
+    <s>
+      <eagle o="18_30863873"/>
+    </s>
+    <s>
+      <eagle o="17"/>
+    </s>
+    <s>
+      <eagle o="12"/>
+    </s>
+    <s>
+      <eagle o="18"/>
+    </s>
+    <s>
+      <eagle o="28"/>
+    </s>
+    <s>
+      <buildin o="29"/>
+    </s>
+    <s>
+      <eagle o="29"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('LiberationMonoPR-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LeagueGothic-Regular.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: LeagueGothic;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LeagueGothic-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: LeagueGothic;
+}
+
+.line1
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	color: #3682a2;
+	gradEndColor: #3682a2;
+	gradStartColor: #3682a2;
+}
+
+.line2
+{
+	borderAlpha: 0;
+	borderColor: #6c7279;
+	color: #6c7279;
+	gradEndColor: #6c7279;
+	gradStartColor: #6c7279;
+}
+
+.line3
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+.line4
+{
+	borderAlpha: 0;
+	borderColor: #6a84a7;
+	color: #edc213;
+	gradEndColor: #6a84a7;
+	gradStartColor: #6a84a7;
+}
+
+.line5
+{
+	borderAlpha: 0;
+	borderColor: #7a4780;
+	color: #7a4780;
+	gradEndColor: #d84b4e;
+	gradStartColor: #d84b4e;
+}
+
+.poly1
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	borderThickness: 9;
+	color: #000;
+	gradEndColor: #222;
+	gradStartColor: #222;
+}
+
+.poly2
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	borderThickness: 0;
+	color: #000;
+	gradEndColor: #6c7279;
+	gradStartColor: #6c7279;
+}
+
+.poly3
+{
+	borderAlpha: 0;
+	borderColor: #edc213;
+	borderThickness: 9;
+	color: #000;
+	gradEndColor: #9fc4f6;
+	gradStartColor: #9fc4f6;
+}
+
+.poly4
+{
+	borderAlpha: 0;
+	borderColor: #edc213;
+	borderThickness: 0;
+	color: #000;
+	gradEndColor: #6a84a7;
+	gradStartColor: #6a84a7;
+}
+
+.poly5
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 9;
+	color: #000;
+	gradEndColor: #d84b4e;
+	gradStartColor: #d84b4e;
+}
+
+Background
+{
+	gradEnd: #000;
+	gradStart: #000;
+}
+
+Grid
+{
+	color: #464646;
+}
+
+ZArrow
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndAlpha: 0.6;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.6;
+	gradStartColor: #fff;
+	thickness: 4;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 4;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 6;
+	gradEndAlpha: 0.2;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.2;
+	gradStartColor: #fff;
+	radius: 10;
+	thickness: 4;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #fff;
+	fontFamily: body;
+	lockTintAlpha: 0.15;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #6a84a7;
+	background-padding: 20;
+}
+
+ZLabel.head
+{
+	color: #d84b4e;
+	fontFamily: head;
+	lockTintAlpha: 0.15;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #333;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #fff;
+	fontFamily: strong;
+	lockTintAlpha: 0.15;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #6c7279;
+	background-padding: 8;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: 0.75;
+	color: #d84b4e;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>76687944</hash>
+  <config>0x+u0nLNKbpUoQAbC6UBwMqq65DNdY2Few==</config>
+</zuiprezi>
